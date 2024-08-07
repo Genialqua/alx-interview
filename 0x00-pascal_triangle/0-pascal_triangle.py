@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """
-This function prints the Pascals Triangle of equivalent 
+This function prints the Pascals Triangle of equivalent
 integer passed to it.
 """
+
 
 def pascal_triangle(n):
     if n <= 0:
